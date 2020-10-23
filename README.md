@@ -16,10 +16,11 @@ You need a working environment with:
 * [Kotlin](https://kotlinlang.org/)
 * [Android Studio](https://developer.android.com/studio)
 
-## VERSION Proyect Spring-Ionic
+## VERSION Proyect NodeKotlin
 
 * [Frontend](https://github.com/SergioPA11/IkeveoNode/tree/master/frontend)
 * [Backend](https://github.com/SergioPA11/IkeveoNode/tree/master/backend)
+* [IkeveoDB](https://github.com/SergioPA11/IkeveoNode/blob/master/ikeveo_gafas.sql)
 * [Postman](https://documenter.getpostman.com/view/13098730/TVYCAfsH)
 
 
