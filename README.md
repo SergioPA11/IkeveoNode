@@ -4,7 +4,7 @@ The Ikeveo App is to view, modify, delete or add glasses to the store
 
 # App content
 
-In the application you can see images of glasses, dragging up the other glasses will be shown, touching on that glasses will not lead to another tab where we can delete the glasses or edit it, and to add a glasses is as simple as touching the orange circle bottom right
+In the application you can see images of glasses, dragging up the other glasses will be shown, touching on that glasses will lead to another tab where we can delete the glasses or edit it, and to add a glasses is as simple as touching the orange circle bottom right
 
 ## Prerequisites
 
